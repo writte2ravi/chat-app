@@ -1,0 +1,16 @@
+.sidbarChat{
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 0.5px solid gray;
+    
+
+}
+a{
+    text-decoration: none !important;
+    color: black;
+}
+.sidbarChat:hover {
+    background-color: #cab1b1;
+    
+}
